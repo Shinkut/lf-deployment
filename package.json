@@ -2,7 +2,7 @@
   "name": "lf-deployment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{usuario}.github.io/{nombre del repo}/",
+  "homepage": "https://Shinkut.github.io/lf-deployment/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
